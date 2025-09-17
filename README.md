@@ -2,7 +2,7 @@
 <h3 align="center">A blockchain developer in transition from real estate management</h3>
 
 - 🔭 I'm working on ChainLend, a P2P lending DApp with ETH collateral [ChainLend](https://github.com/Joh077/ChainLend)<br>
-- 👯 I’m looking for a blockchain development internship<br>
+- 👯 I’m looking for a blockchain development job<br>
 - 🌱 I'm currently learning advanced Solidity patterns and testing with Foundry<br>
 - 💬 Ask me about my project, or my career transition journey<br>
 
